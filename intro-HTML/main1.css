@@ -1,0 +1,53 @@
+h1{
+    font-size: 40px;
+    color: white;
+}
+.container{
+    width: 90%;
+    margin: 0px auto;
+ }
+ header{
+    background-color:rgb(0, 0, 0,.5);
+    /* position: fixed; */
+ }
+ section{
+     height: 900px;
+    background-image: url("https://www.scdn.co/i/home/hero-burst-mobile.svg");
+    text-align: center;
+ }
+ section button{ 
+    background-color: green;
+    border-radius: 10px;
+}
+section div{
+  padding-top: 250px;
+}
+ body{
+ 
+    margin: 0px;
+   
+    background-color: pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+ }
+ 
+ nav a{
+    color: #ffffff ;
+    padding: 10px ;
+ }
+ 
+ .clearfix{ 
+     clear:both; }
+ .display-left{
+ 
+    /* display: inline; */
+    float: left;
+    width:20%;
+ }
+ .display-right{
+    /* display: inline; */
+    float: right;
+ }
+ .logo{
+    width: 15%;
+ }

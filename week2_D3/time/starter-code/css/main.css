@@ -1,0 +1,31 @@
+
+#minutes{
+
+    animation: rotate 3600s infinite linear;
+}
+#hour{
+    
+    animation: rotate 43200s infinite linear;
+}
+#seconds{
+   
+    animation: rotate 60s infinite linear;
+}
+.analogue_clock{
+    position: relative;
+    background-image: url('../img/clock_face.jpg');
+    background-repeat: no-repeat;
+    width:400px;
+    height: 700px;
+  
+}
+.analogue_clock img{
+    position: absolute;
+}
+.digi_clock{
+
+
+}
+#toggle_time{
+
+}
